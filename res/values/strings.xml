@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shared Task List</string>
+    <string name="api_url">http://192.168.84.103:8080/api/tasks</string>
+    <string name="refresh">Refresh</string>
+</resources>
